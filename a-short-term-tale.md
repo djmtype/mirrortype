@@ -12,9 +12,9 @@ In midst of all the commotion, I saw a woman come out of the store. With package
 
 Not to startle him, I casually approached my dad. He was obviously caught off guard by my presence. I asked why he was standing next to the black car. My father’s sense of right versus wrong may be fading fast, but he always has a reason. Did I mention these “reasons” usually include tall-tales? He said the car happened to be in the direction of the barbershop he was walking towards. Of course he tried to explain in his own manner, using hand gestures and broken phrases of misused words. 
 
-To note, his barber is located in the next town over. In addition, nowadays, my dad has very little hair to cut. These were reasons enough for me to assume he was telling less-than-truths. With determination, he was animate about going to see _Carmen the Barber_*, yet I insisted he should get into my car before the chance passed us by. The best argument I could conjure was telling my dad the policeman from the other day was out looking for him. My father remained hesitant still, but finally gave in when I told him the officer’s car was just around the corner. Truthfully, there was a police vehicle parked next store which I used to entice my own tale. 
+To note, his barber is located in the next town over. In addition, nowadays, my dad has very little hair to cut. These were reasons enough for me to assume he was telling less-than-truths. With determination, he was animate about going to see _Carmen the Barber_<sup id="a1">[1](#f1)</sup>, yet I insisted he should get into my car before the chance passed us by. The best argument I could conjure was telling my dad the policeman from the other day was out looking for him. My father remained hesitant still, but finally gave in when I told him the officer’s car was just around the corner. Truthfully, there was a police vehicle parked next store which I used to entice my own tale. 
 
-After I brought him home, his urge to visit the barbershop remained. So, moments later, I drove him to see *Carmen the Barber* as I waited outside. 
+After I brought him home, his urge to visit the barbershop remained. So, moments later, I drove him to see _Carmen the Barber_ as I waited outside. 
 
 A terrible feeling of guilt came over me, especially after he thanked me twice. I was waiting around simply because his ill compulsion can’t be trusted. Instead, I should’ve been waiting to drive him home, making sure he got there safely. 
 
@@ -24,4 +24,4 @@ Having spare time on my hands, I began writing this message as an email to a fri
 
 - - -
 
-A worthy mention, Carmen was our childhood barber for many years. As youngsters, my dad, brothers and I use go to the same barbershop. In a sense, _that_ was tradition.
+<b id="f1">1</b> A worthy mention, Carmen was our childhood barber for many years. As youngsters, my dad, brothers and I use go to the same barbershop. In a sense, _that_ was tradition. [↩](#a1)
