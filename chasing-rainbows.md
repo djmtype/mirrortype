@@ -1,11 +1,10 @@
-Programm - Like The Sun
-White Caves — Dig
-Lowtide — Blue Movie
-Ringo Deathstarr - God's Dream
-The Enters — End of the Summer
-The Death Of Pop — Circles
-White Poppy – Darkness Turns To Light
-Panda Riot - Amanda In The Clouds
-Elastic Sleep - Leave You
-Beach Volleyball - Contack
-Roku Music - You
+1. Programm – Like The Sun
+2. White Caves – Dig
+3. Lowtide – Blue Movie
+4. The Enters – End of the Summer
+5. The Death Of Pop – Circles
+6. White Poppy – Darkness Turns To Light
+7. Panda Riot – Amanda In The Clouds
+8. Elastic Sleep – Leave You
+9. Beach Volleyball – Contack
+10. Roku Music – You
