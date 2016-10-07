@@ -31,8 +31,7 @@ Servings Per Recipe: 2
 
 | AMOUNT PER SERVING% | DAILY VALUE |
 | ------------------- |:-----------:|
-| Calories 248.9 |
-| Calories from Fat 126 | 51% |
+| Calories 248.9  Calories from Fat 126 | 51% |
 | Total Fat 14.1 g | 21% |
 | Saturated Fat 2.7 g | 13% |
 | Cholesterol 6 mg | 2% |
