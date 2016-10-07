@@ -30,7 +30,7 @@ Serving Size: 1 (119 g)
 Servings Per Recipe: 2
 
 AMOUNT PER SERVING% | DAILY VALUE
----|---
+--- | ---
 Calories 248.9 
 Calories from Fat 126 | 51%
 Total Fat 14.1 g | 21%
