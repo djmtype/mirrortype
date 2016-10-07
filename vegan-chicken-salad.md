@@ -26,8 +26,7 @@ And of course, refrigerate.
 
 ### Nutrition
 
-Serving Size: 1 (119 g) 
-Servings Per Recipe: 2
+Serving Size: 1 (119 g)  Servings Per Recipe: 2
 
 | AMOUNT PER SERVING% | DAILY VALUE |
 | ------------------- |:-----------:|
