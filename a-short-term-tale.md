@@ -14,11 +14,11 @@ Having some idea of his patterns, my instinct told me he would be walking toward
 
 While observing my father, watching him observe the crowd, I was on a call with my brother discussing our father’s worsening habits while trying to capture this whole incident by phone. Unfortunately, a different, oversized SUV pulled into the lot and totally obstructed my view. 
 
-In midst of all the commotion, I saw a woman come out of the store. With package in hand, she looked directly at my father in awe. A split-second later she pulled out her phone and began dialing. It’s hard to know for certain whether she was the owner of the black SUV or she was calling the police regardless. And, just maybe, my imagination was getting the best of me. However, knowing my dad’s bizarre behavior  holds enough evidence to support my paranoia. In any case, I felt like I had to take action before this scenario escalated into a scene of sirens and over-caffeinated cop cars. 
+In midst of all the commotion, I saw a woman come out of the store. With package in hand, she looked directly at my father in awe. A split-second later she pulled out her phone and began dialing. It’s hard to know for certain whether she was the owner of the black SUV or she was calling the police regardless. And, just maybe, my imagination was getting the best of me. However, knowing my dad’s late bizarre behavior holds enough evidence to support my paranoia. In any case, I felt like I had to take action before this scenario escalated into a scene of sirens and over-caffeinated cop cars. 
 
 Not to startle him, I casually approached my dad. He was obviously caught off guard by my presence. I asked why he was standing next to the black car. My father’s sense of right versus wrong may be fading fast, but he always has a reason. Did I mention these “reasons” usually include tall-tales? He said the car happened to be in the direction of the barbershop he was walking towards. Of course he tried to explain in his own manner, using hand gestures and broken phrases of misused words. 
 
-To note, his barber is located in the next town over. In addition, nowadays, my dad has very little hair to cut. These were reasons enough for me to assume he was telling less-than-truths. With determination, he was animate about going to see *Carmen the Barber*[^1], yet I insisted he should get into my car before the chance passed us by. The best argument I could conjure was telling my dad the policeman from the other day was out looking for him. My father remained hesitant still, but finally gave in when I told him the officer’s car was just around the corner. Truthfully, there was a police vehicle parked next store which I used to entice my own tale. 
+To note, his barber is located in the next town over. In addition, now-a-days, my dad has very little hair to cut. These were reasons enough for me to assume he was telling less-than-truths. With determination, he was animate about going to see *Carmen the Barber*[^1], yet I insisted he should get into my car before the chance passed us by. The best argument I could conjure was telling my dad the policeman from the other day was out looking for him. My father remained hesitant still, but finally gave in when I told him the officer’s car was just around the corner. Truthfully, there was a police vehicle parked next store which I used to entice my own tale. 
 
 After I brought him home, his urge to visit the barbershop remained. So, moments later, I drove him to see *Carmen the Barber* as I waited outside. 
 
@@ -30,6 +30,6 @@ Having spare time on my hands, I began writing this message as an email to a fri
 
 [^1]: A worthy mention, Carmen was our childhood barber for many years. As youngsters, my dad, brothers and I use go to the same barbershop. In a sense, *that* was tradition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI0MjQ2ODMsMjg3NjE2OTA5LC0yND
-I2OTI3MjBdfQ==
+eyJoaXN0b3J5IjpbNDcwMDQwNjg1LDI4NzYxNjkwOSwtMjQyNj
+kyNzIwXX0=
 -->
