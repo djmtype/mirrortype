@@ -8,7 +8,7 @@ categories: features
 
 *The logical way to tell this tale of a dad with a dementia disorder is to begin in the middle with a recent, random event.*
 
-The day unfolded another magical morning with an echo of Monday stirring in the background. It might be relevant to emphasize, Tuesday was a blur, and today is now Wednesday. As I (should’ve) mentioned, my father is no longer allowed to leave the house without an escort. House rules! Against all wishes, this 71 year-old, stubborn man argued while fleeing through the garage, then sprinting down the street in the rain. 
+The day unfolded as another magical morning with an echo of Monday stirring in the background. It might be relevant to emphasize, Tuesday was a blur, and today is now Wednesday. As I (should’ve) mentioned, my father is no longer allowed to leave the house without an escort. Against all wishes, this 71 year-old, stubborn man argued while fleeing through the garage, then sprinting down the street in the rain. 
 
 Having some idea of his patterns, my instinct told me he would be walking towards the *Trader Joe’s* in town. I arrived before him in wake of a busy parking lot. Upon his entry, I just saw his bright white head glide across, in b-line formation, towards the end of the building. There he stood, next to a stranger’s vacant black SUV. He began scouting around, making sure the coast was clear as if he was going to attempt and open the door. To say the least, it was shocking to see him in pursuit. Perhaps, in his mind, his jacket cloaked his every move with the sight of camouflage to the sound of stealth. But, on the contrary…. Although, no sun could be seen in the sky, a spotlight pierced straight through onto this man in blue. 
 
@@ -30,5 +30,6 @@ Having spare time on my hands, I began writing this message as an email to a fri
 
 [^1]: A worthy mention, Carmen was our childhood barber for many years. As youngsters, my dad, brothers and I use go to the same barbershop. In a sense, *that* was tradition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NjE2OTA5LC0yNDI2OTI3MjBdfQ==
+eyJoaXN0b3J5IjpbMjQxNDc5OTE5LDI4NzYxNjkwOSwtMjQyNj
+kyNzIwXX0=
 -->
