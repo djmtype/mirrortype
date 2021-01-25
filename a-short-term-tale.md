@@ -4,7 +4,6 @@ date: 2015-10-08
 title:  A Short-Term Tale
 description: A post about my father and Alzheimer's disease
 ---
-
 # A Short-Term Tale
 
 _The logical way to tell this tale of a dad with a dementia disorder is to begin in the middle with a recent, random event._
@@ -33,5 +32,5 @@ Having spare time on my hands, I began writing this message as an email to a fri
 
 <b id="f1">1</b> A worthy mention, Carmen was our childhood barber for many years. As youngsters, my dad, brothers and I use go to the same barbershop. In a sense, _that_ was tradition. [↩](#a1)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjY5MjcyMF19
+eyJoaXN0b3J5IjpbMTAzMzE5MzQwNiwtMjQyNjkyNzIwXX0=
 -->
