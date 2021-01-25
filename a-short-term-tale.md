@@ -28,8 +28,8 @@ Having spare time on my hands, I began writing this message as an email to a fri
 
 > No matter how bad it [the disorder] gets, I’d rather be running after a mischievous man-child rather than being without a dad to chase around at all.
 
-[^1]: A worthy mention, Carmen was our childhood barber for decades. As youngsters, my dad, brothers and I use go to the same barbershop. 
+[^1]: A worthy mention, Carmen was our childhood barber. As youngsters, my dad, brothers and I use go to the same barbershop.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI2MTMzMzYsMjg3NjE2OTA5LC0yND
-I2OTI3MjBdfQ==
+eyJoaXN0b3J5IjpbMTY3Njc3MDg1NiwyODc2MTY5MDksLTI0Mj
+Y5MjcyMF19
 -->
