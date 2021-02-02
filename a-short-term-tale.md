@@ -30,6 +30,9 @@ Having spare time on my hands, I began writing this message as an email to a fri
 
 [^1]: A worthy mention, Carmen was our childhood barber. As youngsters, my dad, brothers and I use go to the same barbershop.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Njc3MDg1NiwyODc2MTY5MDksLTI0Mj
-Y5MjcyMF19
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEEgU2hvcnQtVGVybSBUYW
+xlXG5hdXRob3I6IFNjb3R0IFJvZFxuY2F0ZWdvcmllczogRmVh
+dHVyZXNcbnN0YXR1czogcHVibGlzaGVkXG5kYXRlOiAnMjAxNS
+0xMC0xMidcbiIsImhpc3RvcnkiOlsxMzQzMDg1NjQyLDE2NzY3
+NzA4NTYsMjg3NjE2OTA5LC0yNDI2OTI3MjBdfQ==
 -->
