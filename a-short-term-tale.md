@@ -1,3 +1,14 @@
+---
+
+title: A Short-Term Tale
+author: Scott Rod 
+categories: Features
+status: published
+date: '2015-10-08'
+excerpt: 'A post about my father and Alzheimer’s disease'
+
+---
+
 *The logical way to tell this tale of a dad with a dementia disorder is to begin in the middle with a recent, random event.*
 
 The day unfolded as another magical morning with an echo of Monday stirring in the background. It might be relevant to emphasize, Tuesday was a blur, and today is now Wednesday. As I (should’ve) mentioned, my father is no longer allowed to leave the house without an escort. Against all wishes, this 71 year-old, stubborn man argued while fleeing through the garage, then sprinting down the street in the rain. 
@@ -21,6 +32,7 @@ Having spare time on my hands, I began writing this message as an email to a fri
 > No matter how bad it [the disorder] gets, I’d rather be running after a mischievous man-child rather than being without a dad to chase around at all.
 
 [^1]: A worthy mention, Carmen was our childhood barber. As youngsters, my dad, brothers and I use go to the same barbershop.
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEEgU2hvcnQtVGVybSBUYW
 xlXG5hdXRob3I6IFNjb3R0IFJvZFxuY2F0ZWdvcmllczogRmVh
