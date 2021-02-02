@@ -1,11 +1,3 @@
----
-date: 2015-10-08
-title:  A Short-Term Tale
-description: A post about my father and Alzheimer's disease
-categories: features
----
-# A Short-Term Tale
-
 *The logical way to tell this tale of a dad with a dementia disorder is to begin in the middle with a recent, random event.*
 
 The day unfolded as another magical morning with an echo of Monday stirring in the background. It might be relevant to emphasize, Tuesday was a blur, and today is now Wednesday. As I (should’ve) mentioned, my father is no longer allowed to leave the house without an escort. Against all wishes, this 71 year-old, stubborn man argued while fleeing through the garage, then sprinting down the street in the rain. 
@@ -33,6 +25,8 @@ Having spare time on my hands, I began writing this message as an email to a fri
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEEgU2hvcnQtVGVybSBUYW
 xlXG5hdXRob3I6IFNjb3R0IFJvZFxuY2F0ZWdvcmllczogRmVh
 dHVyZXNcbnN0YXR1czogcHVibGlzaGVkXG5kYXRlOiAnMjAxNS
-0xMC0xMidcbiIsImhpc3RvcnkiOlsxMzQzMDg1NjQyLDE2NzY3
-NzA4NTYsMjg3NjE2OTA5LC0yNDI2OTI3MjBdfQ==
+0xMC0wOCdcbmV4Y2VycHQ6IEEgcG9zdCBhYm91dCBteSBmYXRo
+ZXIgYW5kIEFsemhlaW1lcuKAmXMgZGlzZWFzZVxuIiwiaGlzdG
+9yeSI6Wy0xMzk0NDcyODExLDE2NzY3NzA4NTYsMjg3NjE2OTA5
+LC0yNDI2OTI3MjBdfQ==
 -->
